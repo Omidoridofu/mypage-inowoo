@@ -597,18 +597,18 @@ th,td{
 }
 @font-face{
     font-family: 'font-bold';
-    src: url('bodoni/BodoniFLF-Bold.otf');
+    src: url('BodoniFLF-Bold.otf');
   }
   
 @font-face{
     font-family: 'font-normal';
-    src: url('bodoni/BodoniFLF-Roman.otf');
+    src: url('BodoniFLF-Roman.otf');
   }
 
 
 @font-face{
     font-family: 'm-japan';
-    src: url('ki_kokumin/ipaexm.ttf');
+    src: url('ipaexm.ttf');
   }
   
 
